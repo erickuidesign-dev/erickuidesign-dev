@@ -7,7 +7,7 @@
 
 <!-- Terminal de Digitação Interativo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BED20A&center=true&vCenter=true&width=600&height=40&lines=npx+erickuidesign-dev%3BExecuting+Design+System...%3BCompiling+AquaSmart+Branding...%3BDeploying+Arara-Caninde+at+100+Lighthouse!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=npx+erickuidesign-dev%3BExecuting+Design+System...%3BCompiling+AquaSmart+Branding...%3BDeploying+Arara-Caninde+at+100+Lighthouse!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <hr />

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="100%">
   <defs>
-    <!-- Gradiente de cores -->
+    <!-- Gradiente de cores (Azul Claro para Azul Escuro) -->
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#BED20A" />
-      <stop offset="100%" stop-color="#1286C3" />
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#1E40AF" />
     </linearGradient>
     
     <style>
@@ -46,13 +46,13 @@
   <!-- Linha de conexão animada -->
   <line x1="200" y1="180" x2="600" y2="180" stroke-width="3" class="connection-line" />
 
-  <!-- Brilho pulsante (Design) -->
-  <circle cx="200" cy="180" r="30" fill="#BED20A" opacity="0.5" class="glow-pulse" />
+  <!-- Brilho pulsante (Design - Azul Claro) -->
+  <circle cx="200" cy="180" r="30" fill="#38BDF8" opacity="0.5" class="glow-pulse" />
   
-  <!-- Círculo principal (Design) -->
-  <circle cx="200" cy="180" r="28" fill="#BED20A" />
+  <!-- Círculo principal (Design - Azul Claro) -->
+  <circle cx="200" cy="180" r="28" fill="#38BDF8" />
   <text x="200" y="184" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="bold" font-size="11" fill="#000">DESIGN</text>
-  <text x="200" y="235" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" fill="#BED20A" font-weight="bold">Photoshop | Figma</text>
+  <text x="200" y="235" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" fill="#38BDF8" font-weight="bold">Photoshop | Figma</text>
 
   <!-- Elemento Central (Erick) -->
   <g transform="translate(400, 180)">
@@ -60,11 +60,11 @@
     <text y="4" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="900" font-size="11" fill="#fff">ERICK</text>
   </g>
 
-  <!-- Brilho pulsante (Code) -->
-  <circle cx="600" cy="180" r="30" fill="#1286C3" opacity="0.5" class="glow-pulse" />
+  <!-- Brilho pulsante (Code - Azul Escuro) -->
+  <circle cx="600" cy="180" r="30" fill="#1E40AF" opacity="0.5" class="glow-pulse" />
 
-  <!-- Círculo principal (Code) -->
-  <circle cx="600" cy="180" r="28" fill="#1286C3" />
+  <!-- Círculo principal (Code - Azul Escuro) -->
+  <circle cx="600" cy="180" r="28" fill="#1E40AF" />
   <text x="600" y="184" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="bold" font-size="11" fill="#fff">CODE</text>
-  <text x="600" y="235" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" fill="#1286C3" font-weight="bold">Astro | Python</text>
+  <text x="600" y="235" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" fill="#1E40AF" font-weight="bold">Astro | Python</text>
 </svg>
